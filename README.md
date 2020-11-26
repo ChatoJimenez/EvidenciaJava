@@ -1,6 +1,5 @@
-=============================
  INSTALACIÓN Y CONFIGURACIÓN
-=============================
+ 
 ¿Cómo ejecutar el programa?
 Una vez descargado o clonado el proyecto se puede ejecutar el programa de dos
 maneras diferentes.
@@ -35,9 +34,8 @@ proyecto), por medio de comandos (cd <Tu ruta>/dist).
 4. Escribir el siguiente comando: java -jar "Evidencia.jar". Esto nos permitirá
 la correcta ejecución del programa, desde la consola.
 
-==================
  USO DEL PROGRAMA
-==================
+ 
 Para usar el programa, hay que iniciar sesión con un usuario registrado en la base
 de datos.
 
@@ -62,15 +60,13 @@ fecha y paciente.
 9. (0)Salir: termina la ejecución del programa.
 
 
-==========
  CRÉDITOS 
-==========
-
+ 
 Desarrollado por Jesús Guillermo Jiménez Delgado
 
-==========
+
  LICENCIA 
-========== 
+ 
 Copyright 2020 Jesús Guillermo Jiménez Delgado
 
 Licensed under the Apache License, Version 2.0 (the "License");
